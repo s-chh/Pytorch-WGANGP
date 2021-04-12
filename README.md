@@ -1,5 +1,5 @@
 # Pytorch-WGANGP
-Pytorch implementation of WGAN-GP using DCGAN architecture for generating 64x64 images.
+Pytorch implementation of WGAN-GP(Wasserstein GAN with Gradient Penalty) using DCGAN architecture for generating 64x64 images.
 
 ### LSUN Dataset
 To download LSUN dataset follow the steps at [https://github.com/fyu/lsun](https://github.com/fyu/lsun)
